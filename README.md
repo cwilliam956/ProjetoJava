@@ -1,1 +1,2 @@
 # ProjetoJava
+O projeto que foi feito para criar uma conta bancária usando a linguagem de programação Java. O projeto tem uma classe chamada Conta que guarda informações como o nome do titular da conta, o banco, a agência e o saldo inicial. Também é gerado um número de identificação para a conta. A classe tem algumas funções que permitem depositar e sacar dinheiro da conta e para mostrar essas informações em um formato mais fácil de entender.
